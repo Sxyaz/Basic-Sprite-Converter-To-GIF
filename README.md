@@ -3,7 +3,6 @@
 Here is a basic GIF converter in Python.
 You just need 3 or more images
 
-#Libary Used
+# Libary Used
 
-I'm used Pillow libary in this project\n
-a
+I'm used Pillow libary in this project
